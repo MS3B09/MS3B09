@@ -3,7 +3,9 @@
 </p>
 
 <h3 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="70" style="vertical-align: middle;">
   Data Scientist | AI Engineer 
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="70" style="vertical-align: middle;">
 </h3>
 
 <div align="center">
@@ -170,11 +172,10 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MS3B09&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MS3B09&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS3B09&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MS3B09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="40%" width="32%" alt="stats graph" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MS3B09&theme=aura&hide_border=true" height="40%" width="32%" alt="streak graph" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS3B09&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="40%" width="32%" alt="languages graph" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" style="vertical-align: middle;">
+</div>
+
 ![Snake Animation](https://github.com/MS3B09/MS3B09/blob/output/snake-dark.svg)
