@@ -1,8 +1,7 @@
-<p align="center">
+<p align="center" style="margin-bottom: 0;">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MOSAB+NASSIRI+😎;" />
 </p>
-
-<h3 align="center">
+<h3 align="center" style="margin-top: 0;">
   Data Scientist | AI Engineer 
 </h3>
 
