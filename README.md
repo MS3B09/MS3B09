@@ -3,9 +3,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="50" style="vertical-align: middle;"> 
-  Data Scientist | AI Engineer
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="50" style="vertical-align: middle;"> 
+  Data Scientist | AI Engineer 
 </h3>
 
 <div align="center">
@@ -178,5 +176,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MS3B09&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 
 </div>
-
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="200" style="vertical-align: middle;">
 ![Snake Animation](https://github.com/MS3B09/MS3B09/blob/output/snake-dark.svg)
