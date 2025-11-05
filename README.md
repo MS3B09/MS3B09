@@ -175,4 +175,4 @@
 </div>
 </div>
 
-![Snake Animation](https://github.com/MS3B09/MS3B09/blob/output/snake-dark.svg)
+![snake gif](https://github.com/MS3B09/MS3B09/blob/output/github-snake-dark.svg)
